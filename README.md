@@ -1,2 +1,2 @@
-#React-Calculator
+# React-Calculator
 followed a tutorial to build a calculator
