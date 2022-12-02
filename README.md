@@ -1,2 +1,2 @@
 # React-Calculator
-followed a tutorial to build a calculator
+followed a tutorial to build a calculator using react
